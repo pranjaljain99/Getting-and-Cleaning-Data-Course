@@ -1,13 +1,13 @@
 # Dataset Description
-a)Activities :  
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+a)Activities :    
+1 WALKING  
+2 WALKING_UPSTAIRS  
+3 WALKING_DOWNSTAIRS  
+4 SITTING  
+5 STANDING  
+6 LAYING  
   
-b) Measurements  
+b) Measurements    
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z

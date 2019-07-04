@@ -1,10 +1,10 @@
 # Getting-and-Cleaning-Data-Course
-dss-jhu  
+# dss-jhu  
 This project includes four files: README.md, codebook.md, run_analysis.R, tidy_data.txt  
 
 Following steps to be taken:  
 
-Download the dataset to my working directory and unzip.  
+Download the dataset to the working directory and unzip.  
 Load the dataset: X_train.txt, X_test.txt, Y_train.txt, Y_test.txt, subject_train.txt, subject_test.txt, features.txt, activity_labels.txt.  
 Merges the X_train and X_test.txt.  
 Merges the Y_train and Y_test.txt.  

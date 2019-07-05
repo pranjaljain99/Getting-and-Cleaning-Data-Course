@@ -35,5 +35,5 @@ combine <- cbind(X, activity, sub_all)
 temp <- group_by(combine,activity, subject)
 final <- summarize_all(temp,funs(mean))
 
-# write final tidy data
+# writing the  final clean data
 write.table(final, file = "./tidy_data.txt", row.names = FALSE, col.names = TRUE)
